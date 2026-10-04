@@ -3,8 +3,8 @@
    ========================================================== */
 
 const TELEGRAM_CONFIG = {
-  botToken: "YAHAN_APNA_BOT_TOKEN_DAALEIN", 
-  adminChatId: "YAHAN_APNA_TELEGRAM_ID_DAALEIN" 
+  botToken: "6772147477:AAHnGzocqfNADYayDK7CMH6UO1Q8eLGUHMY", 
+  adminChatId: "6320680594" 
 };
 
 const DEMO_IMAGES = {
